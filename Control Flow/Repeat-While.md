@@ -2,7 +2,7 @@
 
 
 ````swift
-repear{
+repeat{
 	statement
 } while condition
 ````
