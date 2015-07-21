@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAF57627-B127-4C81-80AE-7FE56CBC232F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SingleTonLearningNote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75A83771800E3C4B7FE9E21EB3421093165D96E3</key>
+		<string>https://github.com/colourful987/swift2.0-Playground-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Properties/SingleTonLearningNote.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75A83771800E3C4B7FE9E21EB3421093165D96E3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/colourful987/swift2.0-Playground-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75A83771800E3C4B7FE9E21EB3421093165D96E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75A83771800E3C4B7FE9E21EB3421093165D96E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift2.0%E8%AF%AD%E6%B3%95%E6%94%B9%E5%8A%A8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
