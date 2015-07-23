@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>F7D7B9A7-25D3-4153-BEF9-1FA285071102</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Special Characters in String Literals</string>
+	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>75A83771800E3C4B7FE9E21EB3421093165D96E3</key>
 		<string>https://github.com/colourful987/swift2.0-Playground-.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Strings and Characters/Special Characters in String Literals.playground</string>
+	<string>Strings and Characters/Special Characters in String Literals.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>75A83771800E3C4B7FE9E21EB3421093165D96E3</key>
-		<string>../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/colourful987/swift2.0-Playground-.git</string>
