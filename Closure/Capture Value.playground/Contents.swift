@@ -60,7 +60,7 @@ incrementByTen()  //执行函数 返回20 这时候runningtotal = 20
 incrementByTen()  //执行函数 返回30 这时候runningtotal = 30
 
 //再声明另外一个累加器 但是步长为7
-let incrementBySeven = makeIncrementer(forIncrement: 7)
+let incrementBySeven = makeIncrementer(forIncrement: 7)//右侧可以看到返回值为()->Int 正是闭包类型
 incrementBySeven()  //执行函数 返回7
 incrementByTen()    //执行前一个累加器 返回40
 
