@@ -114,7 +114,7 @@ let initializer:Int->String = String.init
 let oneTwoThree = [1,2,3].map(initializer)
 let joinString = oneTwoThree.reduce("", combine: +)//"123"
 
-//： 如果你想看map filter reduce函数的揭秘 可以看我的最新文章[map](http://blog.csdn.net/colouful987/article/details/47254397) [filter](http://blog.csdn.net/colouful987/article/details/47254403) [reduce](http://blog.csdn.net/colouful987/article/details/47271245)
+//: 如果你想看map filter reduce函数的揭秘 可以看我的最新文章[map](http://blog.csdn.net/colouful987/article/details/47254397) [filter](http://blog.csdn.net/colouful987/article/details/47254403) [reduce](http://blog.csdn.net/colouful987/article/details/47271245)
 
 
 //: 使用明确的init函数来初始化
@@ -140,12 +140,12 @@ let s3 = someValue.dynamicType.init(data: 7)  // Valid
 
 // 和if语法不通 #if-endif 只是在编译器编译时候运行 是compile time执行 而不是run time
 
-/*:
-  Function | Valid arguments
-  :------- | :-------------:
-  os()     | OSX, iOS, watchOS
-  arch()   | i386, x86_64, arm, arm64
-*/
+
+//:  Function | Valid arguments
+//:  -------- | ------------------------
+//:  os()     | OSX, iOS, watchOS
+//:  arch()   | i386, x86_64, arm, arm64
+
 
 
 //: ##改动六 MetaType Type
