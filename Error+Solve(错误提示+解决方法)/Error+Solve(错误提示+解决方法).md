@@ -9,7 +9,11 @@
 个人博客地址:[Colourful Code](http://colourfulcode.cn)   
 
 
-Error Information | How to solve it   | 备注
------------------ | ---------------   
-`toInt() is unavailable:Use Int() initializer`  | 字符串转换成整数方法改为`var intNumber = Int("123")`|
+
+1. toInt() is unavailable:Use Int() initializer   
+	* 字符串转换成整数方法改为`var intNumber = Int("123")`     
+	
+
+2. Binary operator '|'cannot be applied to two UIViewAutoresizing operands.
+	* `[.FlexibleWidth, .FlexibleHeight]` 数组传值
  
